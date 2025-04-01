@@ -90,22 +90,3 @@ Port Conflicts: If port 5000 is in use, update the PORT variable in backend/.env
 
 #Acknowledgments
 ##This project was developed as a mini-project for the 4th semester Web Development course. Special thanks to the open-source community for tools like Next.js, shadcn/ui, and MySQL.
-
-### Key Improvements
-1. **Proper Markdown Syntax**: Added headings (`#`, `##`), code blocks (```), and bullet points for clarity.
-2. **Structured Layout**: Separated sections logically (Prerequisites, Setup Instructions, Usage, etc.).
-3. **Detailed Instructions**: Clarified steps like opening a new terminal and replacing `your_password`.
-4. **Professional Tone**: Added an Acknowledgments section and links to download tools.
-5. **Readability**: Used consistent formatting and concise language.
-
-### How to Use This
-1. **Replace Your Existing README.md**:
-   - Open `README.md` in `C:\Users\Lenovo\Desktop\4rth Semester\Web Development\mess-menu-system` in VS Code.
-   - Delete its current content and paste the above text.
-   - Save the file.
-
-2. **Commit and Push**:
-   ```bash
-   git add README.md
-   git commit -m "Updated README with improved instructions"
-   git push origin master
